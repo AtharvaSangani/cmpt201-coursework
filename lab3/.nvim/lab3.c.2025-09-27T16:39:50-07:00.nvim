@@ -1,0 +1,53 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+#define HISTORY_SIZE 5
+
+// Function to print the history in order: oldest to newest
+void print_history(char* history[], int start, int count) {
+    for (int i = 0; i < count; i++) {
+        int idx = (start + i) % HISTORY_SIZE;
+        if (history[idx] != NULL) {
+            printf("%s", history[idx]); // line already has         }
+    }
+}
+
+int main() {
+    char* history[HISTORY_SIZE] = {NULL}; // circular buffer
+    int index = 0;   // next position to store
+    int count = 0;   // total lines stored (max 5)
+    char* line = NULL;
+    size_t len = 0;
+
+    while (1) {
+        printf("Enter input: ");
+        ssize_t nread = getline(&line, &len, stdin);
+        if (nread == -1) {
+            // EOF or Ctrl+C
+            break;
+        }
+
+        // Ignore blank lines (optional)
+        if (nread == 1 && line[0] == '\n') {
+            continue;
+        }
+
+        if (strcmp(line, "print\n") == 0) {
+            // Print history in order
+            int start = (count < HISTORY_SIZE) ? 0 : index;
+            print_history(history, start, count < HISTORY_SIZE ? count : HISTORY_SIZE);
+        }
+
+        // Store input in history
+        if (history[index] != NULL) {
+            free(history[index]); // free old memory
+        }
+        history[index] = strdup(line); // copy new line
+        index = (index + 1) % HISTORY_SIZE;
+        if (count < HISTORY_SIZE) {
+            count++;
+        }
+    }
+
+    // Free all allocated memory b

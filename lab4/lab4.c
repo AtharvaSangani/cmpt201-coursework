@@ -1,0 +1,78 @@
+// lab4.c
+#include <stdint.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+
+#define EXTRA_SIZE 256
+#define BLOCK_SIZE 128
+#define BUF_SIZE 128
+
+struct header {
+  uint64_t size;
+  struct header *next;
+};
+
+void print_out(char *format, void *data, size_t data_size) {
+  char buf[BUF_SIZE];
+  ssize_t len = snprintf(buf, BUF_SIZE, format,
+                         data_size == sizeof(uint64_t) ? *(uint64_t *)data
+                                                       : *(void **)data);
+  if (len < 0) {
+    write(STDERR_FILENO, "snprintf error\n", 15);
+    _exit(1);
+  }
+  write(STDOUT_FILENO, buf, len);
+}
+
+int main() {
+  // Increase heap size by 256 bytes
+  void *start = sbrk(EXTRA_SIZE);
+  if (start == (void *)-1) {
+    write(STDERR_FILENO, "sbrk failed\n", 12);
+    return 1;
+  }
+
+  // create first and second blocks
+  struct header *first_block = (struct header *)start;
+  struct header *second_block = (struct header *)((char *)start + BLOCK_SIZE);
+
+  // initialize headers
+  first_block->size = BLOCK_SIZE;
+  first_block->next = NULL;
+
+  second_block->size = BLOCK_SIZE;
+  second_block->next = first_block;
+
+  // Initialize data
+  unsigned char *first_data = (unsigned char *)(first_block + 1);
+  unsigned char *second_data = (unsigned char *)(second_block + 1);
+
+  memset(first_data, 0, BLOCK_SIZE - sizeof(struct header));
+  memset(second_data, 1, BLOCK_SIZE - sizeof(struct header));
+
+  // Print addresses
+  print_out("first block:  %p\n", &first_block, sizeof(void *));
+  print_out("second block: %p\n", &second_block, sizeof(void *));
+
+  // Print header values
+  print_out("first block size:  %lu\n", &first_block->size, sizeof(uint64_t));
+  print_out("first block next:  %p\n", &first_block->next, sizeof(void *));
+  print_out("second block size: %lu\n", &second_block->size, sizeof(uint64_t));
+  print_out("second block next: %p\n", &second_block->next, sizeof(void *));
+
+  size_t data_size = BLOCK_SIZE - sizeof(struct header);
+
+  for (size_t i = 0; i < data_size; i++) {
+    uint64_t val = first_data[i];
+    print_out("%lu\n", &val, sizeof(uint64_t));
+  }
+
+  for (size_t i = 0; i < data_size; i++) {
+    uint64_t val = second_data[i];
+    print_out("%lu\n", &val, sizeof(uint64_t));
+  }
+
+  return 0;
+}

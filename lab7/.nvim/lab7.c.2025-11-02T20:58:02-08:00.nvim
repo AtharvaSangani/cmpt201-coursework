@@ -1,0 +1,990 @@
+Score: 103, Success cases: 70/246
+Score: 113, Success cases: 71/246
+Score: 123, Success cases: 72/246
+Test failed at line 186
+Score: 123, Success cases: 72/246
+Test failed at line 186
+Score: 123, Success cases: 72/246
+Test failed at line 186
+Score: 123, Success cases: 72/246
+Test failed at line 186
+Score: 123, Success cases: 72/246
+Test failed at line 186
+Score: 123, Success cases: 72/246
+Test failed at line 186
+Score: 123, Success cases: 72/246
+Test failed at line 186
+Score: 123, Success cases: 72/246
+Score: 124, Success cases: 73/246
+Test failed at line 186
+Score: 124, Success cases: 73/246
+Test failed at line 186
+Score: 124, Success cases: 73/246
+Score: 134, Success cases: 74/246
+Score: 144, Success cases: 75/246
+Score: 154, Success cases: 76/246
+Test failed at line 222
+Score: 154, Success cases: 76/246
+Test failed at line 222
+Score: 154, Success cases: 76/246
+Test failed at line 222
+Score: 154, Success cases: 76/246
+Test failed at line 222
+Score: 154, Success cases: 76/246
+Test failed at line 222
+Score: 154, Success cases: 76/246
+Test failed at line 222
+Score: 154, Success cases: 76/246
+Test failed at line 222
+Score: 154, Success cases: 76/246
+Score: 155, Success cases: 77/246
+Test failed at line 222
+Score: 155, Success cases: 77/246
+Test failed at line 222
+Score: 155, Success cases: 77/246
+Score: 165, Success cases: 78/246
+Score: 175, Success cases: 79/246
+Score: 185, Success cases: 80/246
+Score: 186, Success cases: 81/246
+Test failed at line 108
+Score: 186, Success cases: 81/246
+Score: 187, Success cases: 82/246
+Test failed at line 108
+Score: 187, Success cases: 82/246
+Score: 188, Success cases: 83/246
+Test failed at line 108
+Score: 188, Success cases: 83/246
+Score: 189, Success cases: 84/246
+Test failed at line 108
+Score: 189, Success cases: 84/246
+Score: 190, Success cases: 85/246
+Test failed at line 108
+Score: 190, Success cases: 85/246
+Score: 191, Success cases: 86/246
+Test failed at line 108
+Score: 191, Success cases: 86/246
+Score: 192, Success cases: 87/246
+Test failed at line 108
+Score: 192, Success cases: 87/246
+Score: 193, Success cases: 88/246
+Test failed at line 108
+Score: 193, Success cases: 88/246
+Score: 194, Success cases: 89/246
+Test failed at line 108
+Score: 194, Success cases: 89/246
+Score: 195, Success cases: 90/246
+Score: 196, Success cases: 91/246
+Score: 197, Success cases: 92/246
+Score: 198, Success cases: 93/246
+Score: 199, Success cases: 94/246
+Score: 200, Success cases: 95/246
+Score: 201, Success cases: 96/246
+Score: 202, Success cases: 97/246
+Score: 203, Success cases: 98/246
+Score: 204, Success cases: 99/246
+Score: 205, Success cases: 100/246
+Score: 206, Success cases: 101/246
+Score: 207, Success cases: 102/246
+Score: 208, Success cases: 103/246
+Score: 209, Success cases: 104/246
+Score: 210, Success cases: 105/246
+Score: 211, Success cases: 106/246
+Test failed at line 127
+Score: 211, Success cases: 106/246
+Score: 212, Success cases: 107/246
+Test failed at line 108
+Score: 212, Success cases: 107/246
+Score: 213, Success cases: 108/246
+Test failed at line 108
+Score: 213, Success cases: 108/246
+Score: 214, Success cases: 109/246
+Test failed at line 108
+Score: 214, Success cases: 109/246
+Score: 215, Success cases: 110/246
+Test failed at line 108
+Score: 215, Success cases: 110/246
+Score: 216, Success cases: 111/246
+Test failed at line 108
+Score: 216, Success cases: 111/246
+Score: 217, Success cases: 112/246
+Test failed at line 108
+Score: 217, Success cases: 112/246
+Score: 218, Success cases: 113/246
+Test failed at line 108
+Score: 218, Success cases: 113/246
+Score: 219, Success cases: 114/246
+Test failed at line 108
+Score: 219, Success cases: 114/246
+Score: 220, Success cases: 115/246
+Test failed at line 108
+Score: 220, Success cases: 115/246
+Score: 221, Success cases: 116/246
+Score: 222, Success cases: 117/246
+Score: 223, Success cases: 118/246
+Score: 224, Success cases: 119/246
+Score: 225, Success cases: 120/246
+Score: 226, Success cases: 121/246
+Score: 227, Success cases: 122/246
+Score: 228, Success cases: 123/246
+Score: 229, Success cases: 124/246
+Score: 230, Success cases: 125/246
+Score: 231, Success cases: 126/246
+Score: 232, Success cases: 127/246
+Score: 233, Success cases: 128/246
+Score: 234, Success cases: 129/246
+Score: 235, Success cases: 130/246
+Score: 236, Success cases: 131/246
+Score: 237, Success cases: 132/246
+Test failed at line 127
+Score: 237, Success cases: 132/246
+Score: 238, Success cases: 133/246
+Test failed at line 108
+Score: 238, Success cases: 133/246
+Score: 239, Success cases: 134/246
+Test failed at line 108
+Score: 239, Success cases: 134/246
+Score: 240, Success cases: 135/246
+Test failed at line 108
+Score: 240, Success cases: 135/246
+Score: 241, Success cases: 136/246
+Test failed at line 108
+Score: 241, Success cases: 136/246
+Score: 242, Success cases: 137/246
+Test failed at line 108
+Score: 242, Success cases: 137/246
+Score: 243, Success cases: 138/246
+Test failed at line 108
+Score: 243, Success cases: 138/246
+Score: 244, Success cases: 139/246
+Test failed at line 108
+Score: 244, Success cases: 139/246
+Score: 245, Success cases: 140/246
+Test failed at line 108
+Score: 245, Success cases: 140/246
+Score: 246, Success cases: 141/246
+Test failed at line 108
+Score: 246, Success cases: 141/246
+Score: 247, Success cases: 142/246
+Score: 248, Success cases: 143/246
+Score: 249, Success cases: 144/246
+Score: 250, Success cases: 145/246
+Score: 251, Success cases: 146/246
+Score: 252, Success cases: 147/246
+Score: 253, Success cases: 148/246
+Score: 254, Success cases: 149/246
+Score: 255, Success cases: 150/246
+Score: 256, Success cases: 151/246
+Score: 257, Success cases: 152/246
+Score: 258, Success cases: 153/246
+Score: 259, Success cases: 154/246
+Score: 260, Success cases: 155/246
+Score: 261, Success cases: 156/246
+Score: 262, Success cases: 157/246
+Score: 263, Success cases: 158/246
+Test failed at line 127
+Score: 263, Success cases: 158/246
+Score: 265, Success cases: 159/246
+Score: 267, Success cases: 160/246
+Test failed at line 137
+Score: 267, Success cases: 160/246
+Test failed at line 139
+Score: 267, Success cases: 160/246
+Test failed at line 141
+Score: 267, Success cases: 160/246
+Score: 269, Success cases: 161/246
+Score: 271, Success cases: 162/246
+Test failed at line 137
+Score: 271, Success cases: 162/246
+Test failed at line 139
+Score: 271, Success cases: 162/246
+Test failed at line 141
+Score: 271, Success cases: 162/246
+Score: 273, Success cases: 163/246
+Score: 275, Success cases: 164/246
+Test failed at line 137
+Score: 275, Success cases: 164/246
+Test failed at line 139
+Score: 275, Success cases: 164/246
+Test failed at line 141
+Score: 275, Success cases: 164/246
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ exit
+Recording done.
+~/units/04-long-assignments/a9-AtharvaSangani❯ record
+Recording started.
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani❯ cd src
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/src❯ nvim alloc.c
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/src❯ cd ..
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani❯ cd build
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ cmake ..
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/cmpt201/units/04-long-assignments/a9-AtharvaSangani/build
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ make
+[ 33%] Building C object CMakeFiles/main.dir/src/alloc.c.o
+[ 66%] Linking C executable main
+[100%] Built target main
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ ./main
+Score: 1, Success cases: 1/246
+Test failed at line 49
+Score: 1, Success cases: 1/246
+Score: 2, Success cases: 2/246
+Test failed at line 49
+Score: 2, Success cases: 2/246
+Score: 3, Success cases: 3/246
+Test failed at line 49
+Score: 3, Success cases: 3/246
+Score: 4, Success cases: 4/246
+Test failed at line 49
+Score: 4, Success cases: 4/246
+Score: 5, Success cases: 5/246
+Test failed at line 56
+Score: 5, Success cases: 5/246
+Score: 6, Success cases: 6/246
+Score: 7, Success cases: 7/246
+Score: 8, Success cases: 8/246
+Score: 9, Success cases: 9/246
+Score: 10, Success cases: 10/246
+Test failed at line 68
+Score: 10, Success cases: 10/246
+Test failed at line 72
+Score: 10, Success cases: 10/246
+Score: 11, Success cases: 11/246
+Score: 12, Success cases: 12/246
+Score: 13, Success cases: 13/246
+Score: 14, Success cases: 14/246
+Score: 15, Success cases: 15/246
+Score: 16, Success cases: 16/246
+Score: 17, Success cases: 17/246
+Score: 18, Success cases: 18/246
+Score: 19, Success cases: 19/246
+Score: 20, Success cases: 20/246
+Score: 21, Success cases: 21/246
+Score: 22, Success cases: 22/246
+^[[B^[[A
+
+^C
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ ./main
+Score: 1, Success cases: 1/246
+Test failed at line 49
+Score: 1, Success cases: 1/246
+Score: 2, Success cases: 2/246
+Test failed at line 49
+Score: 2, Success cases: 2/246
+Score: 3, Success cases: 3/246
+Test failed at line 49
+Score: 3, Success cases: 3/246
+Score: 4, Success cases: 4/246
+Test failed at line 49
+Score: 4, Success cases: 4/246
+Score: 5, Success cases: 5/246
+Test failed at line 56
+Score: 5, Success cases: 5/246
+Score: 6, Success cases: 6/246
+Score: 7, Success cases: 7/246
+Score: 8, Success cases: 8/246
+Score: 9, Success cases: 9/246
+Score: 10, Success cases: 10/246
+Test failed at line 68
+Score: 10, Success cases: 10/246
+Test failed at line 72
+Score: 10, Success cases: 10/246
+Score: 11, Success cases: 11/246
+Score: 12, Success cases: 12/246
+Score: 13, Success cases: 13/246
+Score: 14, Success cases: 14/246
+Score: 15, Success cases: 15/246
+Score: 16, Success cases: 16/246
+Score: 17, Success cases: 17/246
+Score: 18, Success cases: 18/246
+Score: 19, Success cases: 19/246
+Score: 20, Success cases: 20/246
+Score: 21, Success cases: 21/246
+Score: 22, Success cases: 22/246
+^C
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ exit
+Recording done.
+~/units/04-long-assignments/a9-AtharvaSangani❯ record
+Recording started.
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani❯ cd src
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/src❯ ls
+alloc.c  main.c
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/src❯ nvim alloc.c
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/src❯ cd ..
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani❯ cd build
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ cmake ..
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/cmpt201/units/04-long-assignments/a9-AtharvaSangani/build
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ make
+[ 33%] Building C object CMakeFiles/main.dir/src/alloc.c.o
+/home/cmpt201/units/04-long-assignments/a9-AtharvaSangani/src/alloc.c:12:3: error: call to undeclared library function 'printf' with type 'int (const char *, ...)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+   12 |   printf("Free list: ");
+      |   ^
+/home/cmpt201/units/04-long-assignments/a9-AtharvaSangani/src/alloc.c:12:3: note: include the header <stdio.h> or explicitly provide a declaration for 'printf'
+/home/cmpt201/units/04-long-assignments/a9-AtharvaSangani/src/alloc.c:16:28: error: expected ';' after expression
+   16 |     current = current->next
+      |                            ^
+      |                            ;
+2 errors generated.
+make[2]: *** [CMakeFiles/main.dir/build.make:90: CMakeFiles/main.dir/src/alloc.c.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:83: CMakeFiles/main.dir/all] Error 2
+make: *** [Makefile:91: all] Error 2
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ cd ..
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani❯ cd src
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/src❯ nvim alloc.c
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/src❯ cd ..
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani❯ cd build
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ cmake ..
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/cmpt201/units/04-long-assignments/a9-AtharvaSangani/build
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ make
+[ 33%] Building C object CMakeFiles/main.dir/src/alloc.c.o
+[ 66%] Linking C executable main
+[100%] Built target main
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ ./main
+Score: 1, Success cases: 1/246
+Test failed at line 49
+Score: 1, Success cases: 1/246
+Score: 2, Success cases: 2/246
+Test failed at line 49
+Score: 2, Success cases: 2/246
+Score: 3, Success cases: 3/246
+Test failed at line 49
+Score: 3, Success cases: 3/246
+Score: 4, Success cases: 4/246
+Test failed at line 49
+Score: 4, Success cases: 4/246
+Score: 5, Success cases: 5/246
+Test failed at line 56
+Score: 5, Success cases: 5/246
+Score: 6, Success cases: 6/246
+Score: 7, Success cases: 7/246
+Score: 8, Success cases: 8/246
+Score: 9, Success cases: 9/246
+Score: 10, Success cases: 10/246
+Test failed at line 68
+Score: 10, Success cases: 10/246
+Test failed at line 72
+Score: 10, Success cases: 10/246
+Score: 11, Success cases: 11/246
+Score: 12, Success cases: 12/246
+Score: 13, Success cases: 13/246
+Score: 14, Success cases: 14/246
+Score: 15, Success cases: 15/246
+Score: 16, Success cases: 16/246
+Score: 17, Success cases: 17/246
+Score: 18, Success cases: 18/246
+Score: 19, Success cases: 19/246
+Score: 20, Success cases: 20/246
+Score: 21, Success cases: 21/246
+Score: 22, Success cases: 22/246
+^C
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ exit
+Recording done.
+~/units/04-long-assignments/a9-AtharvaSangani❯ ./a9-checker.arm64
+zsh: no such file or directory: ./a9-checker.arm64
+~/units/04-long-assignments/a9-AtharvaSangani❯ ./a8-checker.arm64
+zsh: no such file or directory: ./a8-checker.arm64
+~/units/04-long-assignments/a9-AtharvaSangani❯ ./minimum-checker.arm64
+zsh: no such file or directory: ./minimum-checker.arm64
+~/units/04-long-assignments/a9-AtharvaSangani❯ cd ..
+~/units/04-long-assignments❯ cd ..
+~/units❯ ls
+01-intro  02-tools  03-memory  04-long-assignments
+~/units❯ cd 02-tools/
+~/units/02-tools❯ ls
+a0-AtharvaSangani  a2-AtharvaSangani  a4-AtharvaSangani
+a1-AtharvaSangani  a3-AtharvaSangani  a5-AtharvaSangani
+~/units/02-tools❯ cd a5-AtharvaSangani/
+~/units/02-tools/a5-AtharvaSangani❯ ls
+a5-checker.amd64  assertions  fuzzers  README.md
+a5-checker.arm64  debugger    logging  sanitizers
+~/units/02-tools/a5-AtharvaSangani❯ cd ..
+~/units/02-tools❯ cd ..
+~/units❯ cd 04-long-assignments/
+~/units/04-long-assignments❯ cd a9-AtharvaSangani/
+~/units/04-long-assignments/a9-AtharvaSangani❯ minimum_checker
+Checker completed. Make sure to check all error messages. No additional output indicates all basic checks have passed.
+~/units/04-long-assignments/a9-AtharvaSangani❯ minimum_checker
+Checker completed. Make sure to check all error messages. No additional output indicates all basic checks have passed.
+~/units/04-long-assignments/a9-AtharvaSangani❯ minimum_checker
+Checker completed. Make sure to check all error messages. No additional output indicates all basic checks have passed.
+~/units/04-long-assignments/a9-AtharvaSangani❯ record
+Recording started.
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani❯ minimum_checker
+Checker completed. Make sure to check all error messages. No additional output indicates all basic checks have passed.
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani❯ cd src
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/src❯ nvim alloc.c
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/src❯ cd ..
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani❯ cd build
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ cmake ..
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/cmpt201/units/04-long-assignments/a9-AtharvaSangani/build
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ make
+[ 33%] Building C object CMakeFiles/main.dir/src/alloc.c.o
+/home/cmpt201/units/04-long-assignments/a9-AtharvaSangani/src/alloc.c:18:39: error: use of undeclared identifier 'heaplimit'; did you mean 'heap_limit'?
+   18 |     if (heap_limit > 0 && INCREMENT > heaplimit)
+      |                                       ^~~~~~~~~
+      |                                       heap_limit
+/home/cmpt201/units/04-long-assignments/a9-AtharvaSangani/src/alloc.c:7:12: note: 'heap_limit' declared here
+    7 | static int heap_limit = 0;
+      |            ^
+/home/cmpt201/units/04-long-assignments/a9-AtharvaSangani/src/alloc.c:21:28: error: expected ')'
+   21 |     if (heap == (void *)-1 return NULL)
+      |                            ^
+/home/cmpt201/units/04-long-assignments/a9-AtharvaSangani/src/alloc.c:21:8: note: to match this '('
+   21 |     if (heap == (void *)-1 return NULL)
+      |        ^
+/home/cmpt201/units/04-long-assignments/a9-AtharvaSangani/src/alloc.c:87:32: error: expected ';' after expression
+   87 |         c->next = c->next->next
+      |                                ^
+      |                                ;
+3 errors generated.
+make[2]: *** [CMakeFiles/main.dir/build.make:90: CMakeFiles/main.dir/src/alloc.c.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:83: CMakeFiles/main.dir/all] Error 2
+make: *** [Makefile:91: all] Error 2
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ cd ..
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani❯ cd src
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/src❯ nvim alloc.c
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/src❯ cd src
+cd: no such file or directory: src
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/src❯ cd ..
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani❯ cd build
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ cmake ..
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/cmpt201/units/04-long-assignments/a9-AtharvaSangani/build
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ make
+[ 33%] Building C object CMakeFiles/main.dir/src/alloc.c.o
+[ 66%] Linking C executable main
+[100%] Built target main
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ ./main
+Score: 1, Success cases: 1/246
+Test failed at line 49
+Score: 1, Success cases: 1/246
+Score: 2, Success cases: 2/246
+Test failed at line 49
+Score: 2, Success cases: 2/246
+Score: 3, Success cases: 3/246
+Test failed at line 49
+Score: 3, Success cases: 3/246
+Score: 4, Success cases: 4/246
+Test failed at line 49
+Score: 4, Success cases: 4/246
+Score: 5, Success cases: 5/246
+Score: 6, Success cases: 6/246
+Score: 7, Success cases: 7/246
+Score: 8, Success cases: 8/246
+Score: 9, Success cases: 9/246
+Score: 10, Success cases: 10/246
+Score: 11, Success cases: 11/246
+Test failed at line 68
+Score: 11, Success cases: 11/246
+Test failed at line 72
+Score: 11, Success cases: 11/246
+Score: 12, Success cases: 12/246
+Score: 13, Success cases: 13/246
+Score: 14, Success cases: 14/246
+Score: 15, Success cases: 15/246
+Score: 16, Success cases: 16/246
+Score: 17, Success cases: 17/246
+Score: 18, Success cases: 18/246
+Score: 19, Success cases: 19/246
+Score: 20, Success cases: 20/246
+Score: 21, Success cases: 21/246
+Score: 22, Success cases: 22/246
+Score: 23, Success cases: 23/246
+Test failed at line 88
+Score: 23, Success cases: 23/246
+Score: 24, Success cases: 24/246
+Test failed at line 49
+Score: 24, Success cases: 24/246
+Score: 25, Success cases: 25/246
+Test failed at line 49
+Score: 25, Success cases: 25/246
+Score: 26, Success cases: 26/246
+Test failed at line 49
+Score: 26, Success cases: 26/246
+Score: 27, Success cases: 27/246
+Test failed at line 49
+Score: 27, Success cases: 27/246
+Score: 28, Success cases: 28/246
+Score: 29, Success cases: 29/246
+Score: 30, Success cases: 30/246
+Score: 31, Success cases: 31/246
+Score: 32, Success cases: 32/246
+Score: 33, Success cases: 33/246
+Score: 34, Success cases: 34/246
+Test failed at line 68
+Score: 34, Success cases: 34/246
+Test failed at line 72
+Score: 34, Success cases: 34/246
+Score: 35, Success cases: 35/246
+Score: 36, Success cases: 36/246
+Score: 37, Success cases: 37/246
+Score: 38, Success cases: 38/246
+Score: 39, Success cases: 39/246
+Score: 40, Success cases: 40/246
+Score: 41, Success cases: 41/246
+Score: 42, Success cases: 42/246
+Score: 43, Success cases: 43/246
+Score: 44, Success cases: 44/246
+Score: 45, Success cases: 45/246
+Score: 46, Success cases: 46/246
+Test failed at line 88
+Score: 46, Success cases: 46/246
+Score: 47, Success cases: 47/246
+Test failed at line 49
+Score: 47, Success cases: 47/246
+Score: 48, Success cases: 48/246
+Test failed at line 49
+Score: 48, Success cases: 48/246
+Score: 49, Success cases: 49/246
+Test failed at line 49
+Score: 49, Success cases: 49/246
+Score: 50, Success cases: 50/246
+Test failed at line 49
+Score: 50, Success cases: 50/246
+Score: 51, Success cases: 51/246
+Score: 52, Success cases: 52/246
+Score: 53, Success cases: 53/246
+Score: 54, Success cases: 54/246
+Score: 55, Success cases: 55/246
+Score: 56, Success cases: 56/246
+Score: 57, Success cases: 57/246
+Test failed at line 68
+Score: 57, Success cases: 57/246
+Test failed at line 72
+Score: 57, Success cases: 57/246
+Score: 58, Success cases: 58/246
+Score: 59, Success cases: 59/246
+Score: 60, Success cases: 60/246
+Score: 61, Success cases: 61/246
+Score: 62, Success cases: 62/246
+Score: 63, Success cases: 63/246
+Score: 64, Success cases: 64/246
+Score: 65, Success cases: 65/246
+Score: 66, Success cases: 66/246
+Score: 67, Success cases: 67/246
+Score: 68, Success cases: 68/246
+Score: 69, Success cases: 69/246
+Test failed at line 88
+Score: 69, Success cases: 69/246
+Score: 70, Success cases: 70/246
+Score: 71, Success cases: 71/246
+Score: 72, Success cases: 72/246
+Score: 73, Success cases: 73/246
+Score: 74, Success cases: 74/246
+Score: 75, Success cases: 75/246
+Score: 76, Success cases: 76/246
+Score: 77, Success cases: 77/246
+Score: 78, Success cases: 78/246
+Score: 79, Success cases: 79/246
+Score: 89, Success cases: 80/246
+Score: 99, Success cases: 81/246
+Score: 109, Success cases: 82/246
+Score: 110, Success cases: 83/246
+Score: 111, Success cases: 84/246
+Score: 112, Success cases: 85/246
+Score: 113, Success cases: 86/246
+Score: 114, Success cases: 87/246
+Score: 115, Success cases: 88/246
+Score: 116, Success cases: 89/246
+Score: 117, Success cases: 90/246
+Score: 118, Success cases: 91/246
+Score: 119, Success cases: 92/246
+Score: 129, Success cases: 93/246
+Score: 139, Success cases: 94/246
+Score: 149, Success cases: 95/246
+Score: 150, Success cases: 96/246
+Score: 151, Success cases: 97/246
+Score: 152, Success cases: 98/246
+Score: 153, Success cases: 99/246
+Score: 154, Success cases: 100/246
+Score: 155, Success cases: 101/246
+Score: 156, Success cases: 102/246
+Score: 157, Success cases: 103/246
+Score: 158, Success cases: 104/246
+Score: 159, Success cases: 105/246
+Score: 169, Success cases: 106/246
+Score: 179, Success cases: 107/246
+Score: 189, Success cases: 108/246
+Score: 190, Success cases: 109/246
+Test failed at line 108
+Score: 190, Success cases: 109/246
+Score: 191, Success cases: 110/246
+Test failed at line 108
+Score: 191, Success cases: 110/246
+Score: 192, Success cases: 111/246
+Test failed at line 108
+Score: 192, Success cases: 111/246
+Score: 193, Success cases: 112/246
+Test failed at line 108
+Score: 193, Success cases: 112/246
+Score: 194, Success cases: 113/246
+Test failed at line 108
+Score: 194, Success cases: 113/246
+Score: 195, Success cases: 114/246
+Test failed at line 108
+Score: 195, Success cases: 114/246
+Score: 196, Success cases: 115/246
+Test failed at line 108
+Score: 196, Success cases: 115/246
+Score: 197, Success cases: 116/246
+Test failed at line 108
+Score: 197, Success cases: 116/246
+Score: 198, Success cases: 117/246
+Test failed at line 108
+Score: 198, Success cases: 117/246
+Score: 199, Success cases: 118/246
+Score: 200, Success cases: 119/246
+Score: 201, Success cases: 120/246
+Score: 202, Success cases: 121/246
+Score: 203, Success cases: 122/246
+Score: 204, Success cases: 123/246
+Score: 205, Success cases: 124/246
+Score: 206, Success cases: 125/246
+Score: 207, Success cases: 126/246
+Score: 208, Success cases: 127/246
+Score: 209, Success cases: 128/246
+Score: 210, Success cases: 129/246
+Score: 211, Success cases: 130/246
+Score: 212, Success cases: 131/246
+Score: 213, Success cases: 132/246
+Score: 214, Success cases: 133/246
+Score: 215, Success cases: 134/246
+Test failed at line 127
+Score: 215, Success cases: 134/246
+Score: 216, Success cases: 135/246
+Test failed at line 108
+Score: 216, Success cases: 135/246
+Score: 217, Success cases: 136/246
+Test failed at line 108
+Score: 217, Success cases: 136/246
+Score: 218, Success cases: 137/246
+Test failed at line 108
+Score: 218, Success cases: 137/246
+Score: 219, Success cases: 138/246
+Test failed at line 108
+Score: 219, Success cases: 138/246
+Score: 220, Success cases: 139/246
+Test failed at line 108
+Score: 220, Success cases: 139/246
+Score: 221, Success cases: 140/246
+Test failed at line 108
+Score: 221, Success cases: 140/246
+Score: 222, Success cases: 141/246
+Test failed at line 108
+Score: 222, Success cases: 141/246
+Score: 223, Success cases: 142/246
+Test failed at line 108
+Score: 223, Success cases: 142/246
+Score: 224, Success cases: 143/246
+Test failed at line 108
+Score: 224, Success cases: 143/246
+Score: 225, Success cases: 144/246
+Score: 226, Success cases: 145/246
+Score: 227, Success cases: 146/246
+Score: 228, Success cases: 147/246
+Score: 229, Success cases: 148/246
+Score: 230, Success cases: 149/246
+Score: 231, Success cases: 150/246
+Score: 232, Success cases: 151/246
+Score: 233, Success cases: 152/246
+Score: 234, Success cases: 153/246
+Score: 235, Success cases: 154/246
+Score: 236, Success cases: 155/246
+Score: 237, Success cases: 156/246
+Score: 238, Success cases: 157/246
+Score: 239, Success cases: 158/246
+Score: 240, Success cases: 159/246
+Score: 241, Success cases: 160/246
+Test failed at line 127
+Score: 241, Success cases: 160/246
+Score: 242, Success cases: 161/246
+Test failed at line 108
+Score: 242, Success cases: 161/246
+Score: 243, Success cases: 162/246
+Test failed at line 108
+Score: 243, Success cases: 162/246
+Score: 244, Success cases: 163/246
+Test failed at line 108
+Score: 244, Success cases: 163/246
+Score: 245, Success cases: 164/246
+Test failed at line 108
+Score: 245, Success cases: 164/246
+Score: 246, Success cases: 165/246
+Test failed at line 108
+Score: 246, Success cases: 165/246
+Score: 247, Success cases: 166/246
+Test failed at line 108
+Score: 247, Success cases: 166/246
+Score: 248, Success cases: 167/246
+Test failed at line 108
+Score: 248, Success cases: 167/246
+Score: 249, Success cases: 168/246
+Test failed at line 108
+Score: 249, Success cases: 168/246
+Score: 250, Success cases: 169/246
+Test failed at line 108
+Score: 250, Success cases: 169/246
+Score: 251, Success cases: 170/246
+Score: 252, Success cases: 171/246
+Score: 253, Success cases: 172/246
+Score: 254, Success cases: 173/246
+Score: 255, Success cases: 174/246
+Score: 256, Success cases: 175/246
+Score: 257, Success cases: 176/246
+Score: 258, Success cases: 177/246
+Score: 259, Success cases: 178/246
+Score: 260, Success cases: 179/246
+Score: 261, Success cases: 180/246
+Score: 262, Success cases: 181/246
+Score: 263, Success cases: 182/246
+Score: 264, Success cases: 183/246
+Score: 265, Success cases: 184/246
+Score: 266, Success cases: 185/246
+Score: 267, Success cases: 186/246
+Test failed at line 127
+Score: 267, Success cases: 186/246
+Score: 269, Success cases: 187/246
+Score: 271, Success cases: 188/246
+Test failed at line 137
+Score: 271, Success cases: 188/246
+Test failed at line 139
+Score: 271, Success cases: 188/246
+Test failed at line 141
+Score: 271, Success cases: 188/246
+Score: 273, Success cases: 189/246
+Score: 275, Success cases: 190/246
+Test failed at line 137
+Score: 275, Success cases: 190/246
+Test failed at line 139
+Score: 275, Success cases: 190/246
+Test failed at line 141
+Score: 275, Success cases: 190/246
+Score: 277, Success cases: 191/246
+Score: 279, Success cases: 192/246
+Test failed at line 137
+Score: 279, Success cases: 192/246
+Test failed at line 139
+Score: 279, Success cases: 192/246
+Test failed at line 141
+Score: 279, Success cases: 192/246
+[recording] ~/units/04-long-assignments/a9-AtharvaSangani/build❯ exit
+Recording done.
+~/units/04-long-assignments/a9-AtharvaSangani❯ minimum_checker
+Checker completed. Make sure to check all error messages. No additional output indicates all basic checks have passed.
+~/units/04-long-assignments/a9-AtharvaSangani❯ git add .
+~/units/04-long-assignments/a9-AtharvaSangani❯ git commit -m "assignment 9"
+[main 60ccce2] assignment 9
+ 168 files changed, 31013 insertions(+)
+ create mode 100644 .nvim/CMakeLists.txt.2025-10-29T18:47:48-07:00.hash
+ create mode 100644 .nvim/CMakeLists.txt.2025-10-29T18:47:48-07:00.nvim
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.0.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.0.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.1034.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.1034.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.1062485.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.1062485.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.131095.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.131095.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.16538.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.16538.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.2109863.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.2109863.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.2128.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.2128.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.262976.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.262976.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.3148545.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.3148545.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.32786.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.32786.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.4148.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.4148.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.4214778.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.4214778.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.5255606.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.5255606.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.531285.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.531285.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.6291589.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.6291589.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.65703.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.65703.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.7340160.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.7340160.snapshot
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.9131.hash
+ create mode 100644 .record/input.0.2025-10-29T17:19:35.080024.9131.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.0.hash
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.0.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.1062590.hash
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.1062590.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.1144.hash
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.1144.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.131927.hash
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.131927.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.2109418.hash
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.2109418.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.2198.hash
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.2198.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.23132.hash
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.23132.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.271962.hash
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.271962.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.3145922.hash
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.3145922.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.4161.hash
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.4161.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.4206259.hash
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.4206259.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.43532.hash
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.43532.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.538570.hash
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.538570.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.65853.hash
+ create mode 100644 .record/input.0.2025-10-29T19:01:29.338874.65853.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.0.hash
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.0.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.10099.hash
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.10099.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.1063632.hash
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.1063632.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.1144.hash
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.1144.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.131169.hash
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.131169.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.2103502.hash
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.2103502.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.2177.hash
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.2177.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.262149.hash
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.262149.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.3159088.hash
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.3159088.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.4137.hash
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.4137.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.4195252.hash
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.4195252.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.42246.hash
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.42246.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.538375.hash
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.538375.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.65872.hash
+ create mode 100644 .record/input.0.2025-10-29T19:11:42.629731.65872.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.0.hash
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.0.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.1163.hash
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.1163.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.134579.hash
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.134579.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.2218.hash
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.2218.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.262154.hash
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.262154.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.39088.hash
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.39088.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.4164.hash
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.4164.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.53562.hash
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.53562.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.539888.hash
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.539888.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.66094.hash
+ create mode 100644 .record/input.0.2025-10-29T19:31:38.885049.66094.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.0.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.0.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.1067951.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.1067951.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.1088.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.1088.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.138168.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.138168.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.17528.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.17528.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.2098.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.2098.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.2099885.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.2099885.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.265911.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.265911.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.3145844.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.3145844.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.40609.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.40609.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.4164.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.4164.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.4195437.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.4195437.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.524717.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.524717.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.5248198.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.5248198.snapshot
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.66433.hash
+ create mode 100644 .record/input.0.2025-10-29T19:45:11.233701.66433.snapshot
+ create mode 100644 CMakeLists.txt
+ create mode 100644 include/.nvim/alloc.h.2025-10-29T17:17:04-07:00.hash
+ create mode 100644 include/.nvim/alloc.h.2025-10-29T17:17:04-07:00.nvim
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T17:19:25-07:00.hash
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T17:19:25-07:00.nvim
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T18:32:04-07:00.hash
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T18:32:04-07:00.nvim
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T19:03:21-07:00.hash
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T19:03:21-07:00.nvim
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T19:28:47-07:00.hash
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T19:28:47-07:00.nvim
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T19:36:14-07:00.hash
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T19:36:14-07:00.nvim
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T19:37:24-07:00.hash
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T19:37:24-07:00.nvim
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T20:03:06-07:00.hash
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T20:03:06-07:00.nvim
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T20:03:07-07:00.hash
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T20:03:07-07:00.nvim
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T20:05:45-07:00.hash
+ create mode 100644 src/.nvim/alloc.c.2025-10-29T20:05:45-07:00.nvim
+ create mode 100644 src/.nvim/main.c.2025-10-29T16:54:06-07:00.hash
+ create mode 100644 src/.nvim/main.c.2025-10-29T16:54:06-07:00.nvim
+ create mode 100644 src/alloc.c
+~/units/04-long-assignments/a9-AtharvaSangani❯ git push
+Enumerating objects: 174, done.
+Counting objects: 100% (174/174), done.
+Delta compression using up to 8 threads
+ lab7.c +
+  1 \#include <stdbool.h>
+  2 #include <stdio.h>
+  3 #include <string.h>
+  4
+  5 #define MAX_INPUTS 100
+  6 #define MAX_LINE_NUMBERS 100
+  7
+  8 // Input key-value pair
+  9 typedef struct {
+ 10 ┆ int line_number;
+ 11 ┆ int value;
+ 12 } Input;
+ 13
+ 14 // Intermediate key-value pair (after mapping)
+ 15 typedef struct {
+ 16 ┆ int line_number;
+ 17 ┆ int doubled_value;
+ 18 } IntermediateInput;
+ 19
+ 20 // Output structure (after grouping)
+ 21 typedef struct {
+ 22 ┆ int doubled_value;
+ 23 ┆ int line_numbers[MAX_LINE_NUMBERS];
+ 24 ┆ int count;
+ 25 } Output;
+ 26
+ 27 // Map function: doubles the input value
+ 28 void map(Input *input, IntermediateInput *intermediate_input) {
+ 29 ┆ intermediate_input->line_number = input->line_number;
+ 30 ┆ intermediate_input->doubled_value = input->value * 2;
+ 31 }
+ 32
+ INSERT  lab7.c | +                                                                              OK  unix | utf-8 | c    0%    1:2
+
